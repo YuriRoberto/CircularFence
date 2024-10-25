@@ -1,0 +1,5 @@
+/* Define uma altura mínima para que o mapa seja visível */
+#map {
+    height: 500px;
+    width: 100%;
+}
